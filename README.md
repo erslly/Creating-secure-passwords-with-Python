@@ -1,1 +1,1 @@
-Kodu indirin visual studio'da açın daha sonra startlayın gerisini anlicaksınız.. 
+- Kodu indirdikten sonra visual stuido'da açın daha sonra startlayın.
